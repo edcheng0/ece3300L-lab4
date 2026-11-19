@@ -31,7 +31,7 @@ A generic register file (`reg_file`) was built from `simple_register_load` regis
 
 **Simulation screenshot:**
 
-![Simulation waveform](screenshots/part1_waveform.png)
+![Simulation waveform](screenshots/waveform_part1.png)
 
 **Block diagram:**
 
@@ -46,7 +46,7 @@ A 4-bit accumulator was built from the provided `adder_subtractor` and a registe
 
 **Simulation screenshot:**
 
-![Simulation waveform](screenshots/part2_waveform.png)
+![Simulation waveform](screenshots/waveform_part2.png)
 
 **Block diagram:**
 
